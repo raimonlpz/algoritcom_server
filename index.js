@@ -4,7 +4,7 @@ import pathfinding from "pathfinding";
 
 const io = new Server({
   cors: {
-    origin: "https://algoritcom-client.vercel.app/",
+    origin: "https://algoritcom-client.onrender.com/",
   },
 });
 
